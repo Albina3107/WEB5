@@ -1,0 +1,48 @@
+h2 {
+    margin-left: 7%;
+}
+
+form {
+    margin-left: 10%;
+    float: left;
+    width: 100%;
+}
+
+#info{
+    margin-top: -220px;
+    float: right;
+    width: 50%;
+    display: none;
+}
+.button {
+    background-color: lightsteelblue;
+    color: slategray;
+    border: none;
+    padding: 5px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+table{
+    margin-left: 7%;
+    width: 600px;
+    height: 600px;
+    border-collapse: collapse;
+    border-color: black;
+}
+
+jsuites-color{
+    margin-left: 7%;
+}
+
+td{
+    text-align: center;
+}
+
+#palette {
+    display: none;
+}
+
